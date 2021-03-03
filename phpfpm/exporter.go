@@ -7,7 +7,6 @@ import (
 )
 
 const (
-	DefaultNameSpace = "fpm"
 	FPMUP = 1
 	FPMDOWN = 0
 )
